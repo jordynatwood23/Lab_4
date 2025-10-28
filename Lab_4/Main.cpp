@@ -4,7 +4,8 @@ C++ FA2025
 Due: Oct 24th
 Description: Create a program that reads hourly temperature from a file and generates a bar chart with the temperature on the left.
 */
-
+// precondition: read temperature from a file and output a bar chart to the screen
+//postcondition: it should read the temp values from the file and output them to the screen on a bar chart with stars
 
 #include <iostream>
 #include <fstream>
